@@ -1,2 +1,16 @@
-# flutter-template
-flutter-template, this template is a starter for a flutter application, it contain theme for switching between colors, languange locale, state management with provider or getx,  sembast nosql db, http verbs for sending requests, forms components and more
+# flutter_template
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
